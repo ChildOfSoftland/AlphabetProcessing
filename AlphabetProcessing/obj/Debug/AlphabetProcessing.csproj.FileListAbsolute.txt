@@ -1,0 +1,12 @@
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.csprojAssemblyReference.cache
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.Form1.resources
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.Properties.Resources.resources
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.csproj.GenerateResource.cache
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.csproj.CoreCompileInputs.cache
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\bin\Debug\AlphabetProcessing.exe.config
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\bin\Debug\AlphabetProcessing.exe
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\bin\Debug\AlphabetProcessing.pdb
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.exe
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.pdb
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.Form2.resources
+C:\gd\prj\C#\AlphabetProcessing\AlphabetProcessing\obj\Debug\AlphabetProcessing.Form3.resources
