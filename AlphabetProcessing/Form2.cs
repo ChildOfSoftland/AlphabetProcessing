@@ -120,7 +120,7 @@ namespace AlphabetProcessing
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            Button2_Click(sender, e);
+            //Button2_Click(sender, e);
             string Kod = "";
             for (int i = 0; i < message.Length; i++)
             {
